@@ -1,0 +1,6 @@
+RENCANA KONTEN MBS
+- Membuat video arduino
+  > Mobil RC
+  > Nano Arduino
+- android
+- php laravel
