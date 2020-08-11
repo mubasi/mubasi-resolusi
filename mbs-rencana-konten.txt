@@ -2,6 +2,9 @@ RENCANA KONTEN MBS
 - Membuat video arduino
   > Mobil RC
   > Nano Arduino
+    ^ Macam macam jenis
+    ^ lain lain
   > Iot
 - android
+  > kotlin
 - php laravel
